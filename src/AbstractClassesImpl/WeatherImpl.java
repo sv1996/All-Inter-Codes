@@ -45,6 +45,7 @@ public class WeatherImpl {
         boolean checkBalanced = checkBalancedParenthesis(str);
         String ans = checkBalanced ? "Balanced" : "Not balanced";
         System.out.println(ans);
+        System.out.println("Hello" );
 
         System.out.println("Getting Square of Number");
         int arr[] = {-4,-1,0,3,10};
